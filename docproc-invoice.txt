@@ -1,0 +1,13 @@
+sm-LK0080145
+inv-00001
+Mar 31 2018
+Space Mechanics Inc.
+Starfleet Interplanatory HQ
+7650
+500
+8150
+Matter antimatter fusion controller 2000 200
+External inertial damper 3100 180
+Type X phaser 500 35
+2MW Fusion reactor 1200 85
+Transporter base dial 850
